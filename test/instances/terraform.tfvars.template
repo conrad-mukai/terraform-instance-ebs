@@ -1,0 +1,15 @@
+# ebs-instance test parameters
+
+region = ""
+ami = ""
+user = ""
+key_name = ""
+private_key_path = ""
+subnet_ids = []
+security_group_ids = []
+volume_map = {}
+mount_map = {}
+route53_zone_id = ""
+bastion = ""
+bastion_user = ""
+bastion_private_key_path = ""
